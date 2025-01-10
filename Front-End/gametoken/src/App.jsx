@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { ethers } from "ethers";
-import ABI from "./assets/MyToken.json";
-import address from "./assets/deployed_addresses.json";
+import ABI from './assets/MyToken.json';
+import address from './assets/deployed_addresses.json';
 import "./App.css";
 
 const App = () => {
